@@ -1,6 +1,6 @@
-*Marseille*
+**MARSEILLE**
 
-#Marseille est une commune du Sud-Est de la France, chef-lieu du département des Bouches-du-Rhône et préfecture de la région Provence-Alpes-Côte d'Azur. La ville est découpée en 16 arrondissements et forme avec Aix-en-Provence la métropole Aix-Marseille-Provence.#
+_Marseille est une commune du Sud-Est de la France, chef-lieu du département des Bouches-du-Rhône et préfecture de la région Provence-Alpes-Côte d'Azur. La ville est découpée en 16 arrondissements et forme avec Aix-en-Provence la métropole Aix-Marseille-Provence._
 
 ![Marseille](https://www.okvoyage.com/wp-content/uploads/2020/03/marseille-france-1024x683.jpg)
 
