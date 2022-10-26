@@ -5,3 +5,5 @@ Nantes est une commune de l'ouest de la France, située au sud du Massif armoric
 ![Nantes](https://www.trecobat.fr/wp-content/uploads/2021/06/vivre-a-nantes-trecobat-768x512.jpg)
 
 Va à Nîmes en cliquant [ici](/Nimes.md) ou à Grenoble en cliquant [ici](/Grenoble.md) ou alors à Saint-Etienne en cliquant [ici](/Saint-Etienne.md) 
+
+William CADIRY
